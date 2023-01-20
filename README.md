@@ -2,10 +2,10 @@
 Pruebas integración de cambios ramas
 
 # rama
-Producción
+Desarrollo
 
-# historial cambios
-Cambios en test.js
+# historia
+Nuevo desarrollo
 T01-001:
     - Cambio readme
     - Cambios en test.js
