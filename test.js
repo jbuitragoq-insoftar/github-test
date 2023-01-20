@@ -1,2 +1,2 @@
 // Rama producción
-console.log('file test: stage');
+console.log('file test: desarrollo');
